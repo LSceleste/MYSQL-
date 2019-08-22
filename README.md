@@ -1,4 +1,4 @@
-# Homework Assignment
+# SQL Assignment 
 
 ## Installation Instructions
 
